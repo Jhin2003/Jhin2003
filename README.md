@@ -55,6 +55,20 @@
 
 ###
 
+<h3 align="left">Cetifications</h3>
+
+###
+
+<p align="left">Machine Learning and Deep Learning Bootcamp in Python<br><br>https://www.udemy.com/certificate/UC-00dd5d7e-4b4a-4e1c-a002-586b6a948911/<br><br>Networking Basics<br><br>https://www.credly.com/badges/ce58b5be-7c84-4089-a0ea-834bfa88d2ae/public_url</p>
+
+###
+
 <h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Jhin2003&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ###
